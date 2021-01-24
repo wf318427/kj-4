@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: kj-41
+
+logging:
+  path: ./log
